@@ -1,5 +1,7 @@
 # laravel-official/nightwatch
 
+See: https://securinglaravel.com/security-tip-have-you-heard-of-slopsquatting/
+
 > ## ⚠️ Disclaimer — Demonstration package
 >
 > This is a **demonstration / placeholder package** created for **educational and
